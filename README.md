@@ -2,13 +2,12 @@
   <img src="images/logo.png" alt="Logo" />
 </p>
 
-Captain Leukosit adalah game 2D bertema Shoot 'em ups (shmups/STGs) yang di buat oleh Ahmad Yuridan Zindani (1201192011) untuk memenuhi tugas dari mata kuliah Game Devlopment prodi RPL, Institut Teknologi Telkom Surabaya. di buat dengan menggunakan Construct 2 Game Engine (Free Edition).
+Captain Leukosit adalah game 2D bertema Shoot 'em ups (shmups/STGs) yang di buat oleh Ahmad Yuridan Zindani (1201192011) untuk memenuhi tugas dari mata kuliah Game Devlopment prodi RPL, Institut Teknologi Telkom Surabaya. di buat dengan menggunakan Construct 2 Game Engine (Free Edition). Kalian bisa mainkan gamenya menggunakan browser pilihan kalian di perangkat PC/Laptop [DI SINI!!](https://captain-leukosit-game.vercel.app/)
 
 ## Link Terkait
 
-* [GAME](https://captain-leukosit-game.vercel.app/)
 * [GDD](https://drive.google.com/file/d/1-vTAdkvPu4tF1Cd3EZeEtqX0tzLyJK_n/view?usp=sharing)
-* [RAW PROJECT, PLUGINS/BEHAVIOR, ASSETS]()
+* [RAW PROJECT, PLUGINS/BEHAVIOR, ASSETS](https://drive.google.com/drive/folders/1qD9-Xru_lj6IsGzBRj4duU0YJLCmvw3H?usp=sharing)
 
 ## Dibuat Dengan
 
